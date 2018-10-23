@@ -16,3 +16,6 @@ kramdown:
   input: GFM
   auto_ids: true
   syntax_highlighter: rouge
+
+# Google Analytics
+google_analytics: UA-127952348-1

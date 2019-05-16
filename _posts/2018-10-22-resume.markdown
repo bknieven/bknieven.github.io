@@ -1,9 +1,0 @@
----
-layout: post
-title: "My Resume"
-date: 2018-10-22 14:00:00 +0800
----
-
-I am **Li Mengdi**, a master condidate for Computer Science in China Agricultural University. My research interest is in Machine Learning applications to Multimedia Security, Deep Learning and Multimedia Processing. I am looking for a PhD position currently. 
-
-Here is my [Resume](/assets/CV.pdf) and you can find the link to my research paper in it. Thanks for your attention!

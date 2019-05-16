@@ -1,7 +1,7 @@
 # Site settings
 title: Li Mengdi's blog
 email: 
-description: "Musings of a darkroamer."
+description: ""
 baseurl: ""
 url: "http://bknieven.github.io"
 twitter_username: NULL
@@ -16,3 +16,4 @@ kramdown:
   input: GFM
   auto_ids: true
   syntax_highlighter: rouge
+  parse_block_html: true

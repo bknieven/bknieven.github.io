@@ -100,4 +100,8 @@ English (IELTS: Listening-7 Reading-8 Speaking-5.5, Writing-5.5, OVERALL-6.5)
 test git romote side
 test git remote side on command line
 test 2
+<<<<<<< HEAD
 test from windows 1
+=======
+test 3
+>>>>>>> master

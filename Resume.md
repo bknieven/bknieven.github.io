@@ -96,8 +96,3 @@ Git**·**SVN**·**Web Development(Javascript, HTML, CSS)
 ### Languages
 Chinese (Native)<br/>
 English (IELTS: Listening-7 Reading-8 Speaking-5.5, Writing-5.5, OVERALL-6.5)
-
-test git romote side
-test git remote side on command line
-test 2
-test 3
